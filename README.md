@@ -1,6 +1,8 @@
 # A Sample ASP.NET Core Web Api
 I am building the sample api from [this tutorial] but I'm using Visual Studio Code instead of Visual Studio.
 
+Below is the default readme data from ASP.NET core. I'm going to leave this here for other's references.
+
 -----
 
 # Welcome to ASP.NET Core
